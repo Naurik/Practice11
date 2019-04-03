@@ -1,0 +1,7 @@
+C:\Users\Acer-PC\source\repos\Practice13\Practice13\bin\Debug\Practice13.exe.config
+C:\Users\Acer-PC\source\repos\Practice13\Practice13\bin\Debug\Practice13.exe
+C:\Users\Acer-PC\source\repos\Practice13\Practice13\bin\Debug\Practice13.pdb
+C:\Users\Acer-PC\source\repos\Practice13\Practice13\obj\Debug\Practice13.csprojAssemblyReference.cache
+C:\Users\Acer-PC\source\repos\Practice13\Practice13\obj\Debug\Practice13.csproj.CoreCompileInputs.cache
+C:\Users\Acer-PC\source\repos\Practice13\Practice13\obj\Debug\Practice13.exe
+C:\Users\Acer-PC\source\repos\Practice13\Practice13\obj\Debug\Practice13.pdb
